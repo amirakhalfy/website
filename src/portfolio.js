@@ -108,13 +108,45 @@ const skills = {
           skillName: "Deeplearning",
           imageSrc: "deeplearning_ai_logo.png",
         },
+        {
+          skillName: "Hugging Face Transformers",
+          fontAwesomeClassname: "logos-hugging-face",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+         
+            skillName: "spark",
+            imageSrc: "spark.png",
+          },
+          
+
+          {
+         
+            skillName: "selenium",
+            imageSrc: "selenium.png",
+          },
+          {
+         
+            skillName: "scrapy",
+            imageSrc: "scrapy.png",
+          },
+        
+       
+
+
       ],
     },
+
+
+
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Skilled in development using React.js, Symfony, Spring Boot, .NET , Flask , django and Flutter, creating robust and scalable web applications."
+        "⚡Skilled in developing robust and scalable applications."
 
       ],
       softwareSkills: [
@@ -127,10 +159,7 @@ const skills = {
         },
         {
           skillName: "R",
-          fontAwesomeClassname: "simple-icons:R",
-          style: {
-            color: "#CC6699",
-          },
+          imageSrc: "R_logo.png",
         },
         {
           skillName: "HTML5",
@@ -157,49 +186,28 @@ const skills = {
         },
         {
           skillName: "C",
-          fontAwesomeClassname: "simple-icons:C",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
+          imageSrc: "C_logo.png",
         },
         {
           skillName: "C++",
-          fontAwesomeClassname: "simple-icons:C++",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
+          imageSrc: "C++_logo.png",
         },
         {
           skillName: "C#",
-          fontAwesomeClassname: "simple-icons:c#",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
+          imageSrc: "Csharp.png",
         },
         {
           skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
+          imageSrc: "react_logo.png",
         },
        
         {
-          skillName: "Springboot",
-          fontAwesomeClassname: "simple-icons:springboot",
-          style: {
-            color: "#CB3837",
-          },
+          skillName: "Spring Boot",
+          imageSrc: "springboot.png",
         },
         {
           skillName: ".Net",
-          fontAwesomeClassname: "simple-icons:.net",
-          style: {
-            color: "#2C8EBB",
-          },
+          imageSrc: "net.png",
         },
         {
           skillName: "Flask",
@@ -210,25 +218,12 @@ const skills = {
         },
         {
           skillName: "Django",
-          fontAwesomeClassname: "simple-icons:Django",
-          style: {
-            color: "#663399",
-          },
+          imageSrc: "django.png",
         },
 
         {
           skillName: "Symfony 5",
-          fontAwesomeClassname: "simple-icons:Symfony5",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "JavaFX",
-          fontAwesomeClassname: "simple-icons:JavaFX",
-          style: {
-            color: "#663399",
-          },
+          imageSrc: "symfonylogo.png",
         },
 
         {
@@ -251,15 +246,15 @@ const skills = {
       softwareSkills: [
       
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
           style: {
-            color: "#FF9900",
+            color: "#0089D6",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "MLFLOW",
+          fontAwesomeClassname: "simple-icons:mlflow",
           style: {
             color: "#0089D6",
           },
@@ -271,13 +266,7 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
+      
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -314,13 +303,7 @@ const skills = {
             color: "#326CE5",
           },
         },
-        {
-          skillName: "Mockito",
-          fontAwesomeClassname: "simple-icons:mockito",
-          style: {
-            color: "#326CE5",
-          },
-        },
+        
       ],
     },
     {
@@ -346,48 +329,9 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/u/amirakhalfy/",
     },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+  
   ],
 };
 
