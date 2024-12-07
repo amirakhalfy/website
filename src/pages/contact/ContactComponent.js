@@ -84,12 +84,7 @@ class Contact extends Component {
                 >
                   {phoneSection["title"]}
                 </h1>
-                <p
-                  className="contact-header-detail-text subTitle"
-                  style={{ color: theme.secondaryText }}
-                >
-                  {phoneSection["subtitle"]}
-                </p>
+                
                 
               </div>
             </div>

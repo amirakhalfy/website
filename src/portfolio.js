@@ -680,7 +680,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile.png",
+    profile_image_path: "contact.png",
     description:
     "I'm active on social media—send me a message, and I'll reply within 24 hours! Need help with machine learning, deep learning, AI, React, DevOps, cloud technologies, or open source development? I'm your person! I'm also available for part-time job or freelance opportunities." },
   blogSection: {
