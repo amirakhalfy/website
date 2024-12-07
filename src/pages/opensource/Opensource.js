@@ -17,14 +17,14 @@ export default function Opensource(props) {
 
   
   const images = [
-    { src: finetune, name: "- Sales Sentiment Analysis and questions answering system", description: "-Analyzed sentiments in Amazon sales and built a question-answering system using generative AI LLMs like LLaMA2, RoBERTa, then fine-tuned RoBERTa with PEFT, prompt engineering, RAG, LangChain." },
+    { src: finetune, name: "- Sales Sentiment Analysis and questions answering system", description: "-Analyzed sentiments in Amazon sales and built a question-answering system using generative AI LLMs(LLaMA2, RoBERTa)then fine-tuned RoBERTa with PEFT, prompt engineering, RAG, LangChain." },
     { src: devops, name: "DevOps", description: "I’ve set up a CI/CD pipeline with Nexus, Docker Compose, SonarQube, Prometheus, and Grafana, automating code deployment and monitoring with email status notifications." },
     { src: loan, name: "Loan approval system", description: "A system for loan approval that makes the credit approval process easier using machine learning, deep learning, NLP, statistics, Power BI, React.js, and Flask." },
     { src: Frauddetectionsystem, name: "Fraud detection system", description: "Contributed to the Monetics project, detecting fraudulent transactions with machine learning and XAI." },
     { src: flutter, name: "Electric Bike Charging Management System", description: "A scalable solution with Flutter, Firebase, and real-time monitoring." },
     { src: actuariallife, name: "Life Actuarial Science project", description: "Estimating and projecting the mortality rates of two groups of British policyholders using R." },
     { src: computervision, name: "Object detection in remote sensing images project", description: "Object detection in remote sensing images using satellite imagery with deep learning and computer vision." },
-    { src: montecarlo, name: "Monte carlo simulations", description: "Monte Carlo simulations are important in data science for predicting outcomes and understanding uncertainty. They help solve complex problems by running many random scenarios to estimate possible results. I used Python to implement these simulations and analyze the data." },
+    { src: montecarlo, name: "Monte carlo simulations", description: "I used Python to implement Monte Carlo simulations, which are essential in data science for predicting outcomes, understanding uncertainty, and assessing risk by running multiple random scenarios to estimate potential results." },
     { src: computervision, name: "Life Actuarial Science project", description: "Estimating and projecting the mortality rates of two groups of British policyholders using R." },
 
 
