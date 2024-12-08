@@ -332,6 +332,14 @@ const competitiveSites = {
       profileLink: "https://leetcode.com/u/amirakhalfy/",
     },
   
+    {
+      siteName: "codechef",
+      iconifyClassname: "simple-icons:codechef",
+      style: {
+        color: "#5D2F8E",
+      },
+      profileLink: "https://www.codechef.com/users/amirakhalfy",
+    },
   ],
 };
 

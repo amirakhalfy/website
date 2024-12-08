@@ -12,6 +12,7 @@ import actuariallife from '../../assets/images/actuariallife.png';
 import finetune from '../../assets/images/finetune.png';
 import computervision from '../../assets/images/computervisionproject.png';
 import montecarlo from '../../assets/images/montecarlo.png';
+import statistic from '../../assets/images/statistic.png';
 
 export default function Opensource(props) {
 
@@ -25,7 +26,7 @@ export default function Opensource(props) {
     { src: actuariallife, name: "Life Actuarial Science project", description: "Estimating and projecting the mortality rates of two groups of British policyholders using R." },
     { src: computervision, name: "Object detection in remote sensing images project", description: "Object detection in remote sensing images using satellite imagery with deep learning and computer vision." },
     { src: montecarlo, name: "Monte carlo simulations", description: "I used Python to implement Monte Carlo simulations, which are essential in data science for predicting outcomes, understanding uncertainty, and assessing risk by running multiple random scenarios to estimate potential results." },
-    { src: computervision, name: "Life Actuarial Science project", description: "Estimating and projecting the mortality rates of two groups of British policyholders using R." },
+    { src: statistic, name: "Factors Affecting Grades ", description: "Univariate and bivariate analyses were conducted using Q-Q plots, pie charts, chi-square tests, Pearson and Spearman correlations,Kruskal-Wallis test. Key factors were identified using multiple linear regression and Random Forest." },
 
 
   ];
